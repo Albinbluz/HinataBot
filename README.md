@@ -142,6 +142,7 @@ git clone https://github.com/AyGemuy/HinataBot/
 cd HinataBot-master
 npm install
 npm update
+node --expose-gc index.js
 ```
 
 ---------
